@@ -5,3 +5,4 @@ Keeping the model up to date on the lastest post is important. Especially for th
 In this approach, we need to train a base model and keep adding the lastest data.
 
 # Online Learining
+(will introducion what is it and how to implement)
